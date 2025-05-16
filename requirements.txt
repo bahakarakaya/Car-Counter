@@ -1,0 +1,9 @@
+cvzone==1.6.1
+filterpy==1.4.5
+lapx==0.5.11
+matplotlib==3.10.3
+numpy==2.2.5
+opencv_python==4.11.0.86
+scipy==1.15.3
+scikit-image==0.25.2
+ultralytics==8.3.132
